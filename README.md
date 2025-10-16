@@ -1,4 +1,3 @@
-<h2> Hey, I'm Gian!</h2>
+hellooooo this is Gian's github page welcome welcome etc etc
 
-🚀   MS in Computer Science @ UCLA <br>
-👨‍💻   Software Engineer III @ GA <br>
+I work in aerospace and am mostly focused on ground software for satellite systems
